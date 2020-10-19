@@ -56,9 +56,9 @@ function bashio::info.supervisor() {
 # ------------------------------------------------------------------------------
 # Returns the Open Peer Power version used.
 # ------------------------------------------------------------------------------
-function bashio::info.homeassistant() {
+function bashio::info.openpeerpower() {
     bashio::log.trace "${FUNCNAME[0]}"
-    bashio::info 'supervisor.info.homeassistant' '.homeassistant'
+    bashio::info 'supervisor.info.openpeerpower' '.openpeerpower'
 }
 
 # ------------------------------------------------------------------------------

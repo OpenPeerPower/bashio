@@ -747,13 +747,13 @@ function bashio::addon.oppio_role() {
 # Arguments:
 #   $1 Add-on slug (optional, default: self)
 # ------------------------------------------------------------------------------
-function bashio::addon.homeassistant_api() {
+function bashio::addon.openpeerpower_api() {
     local slug=${1:-'self'}
     bashio::log.trace "${FUNCNAME[0]}" "$@"
     bashio::addons \
         "${slug}" \
-        "addons.${slug}.homeassistant_api" \
-        '.homeassistant_api // false'
+        "addons.${slug}.openpeerpower_api" \
+        '.openpeerpower_api // false'
 }
 
 # ------------------------------------------------------------------------------

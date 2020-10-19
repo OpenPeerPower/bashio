@@ -68,7 +68,7 @@ function bashio::core.logs() {
 }
 
 # ------------------------------------------------------------------------------
-# Returns a JSON object with generic Home Asssistant information.
+# Returns a JSON object with generic Open Peer Power information.
 #
 # Arguments:
 #   $1 Cache key to store results in (optional)
