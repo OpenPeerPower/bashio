@@ -10,10 +10,6 @@
 
 [![Discord][discord-shield]][discord]
 
-[![Sponsor Frenck via GitHub Sponsors][github-sponsors-shield]][github-sponsors]
-
-[![Support Frenck on Patreon][patreon-shield]][patreon]
-
 ## About
 
 Bashio is a bash function library for use with Open Peer Power add-ons.
