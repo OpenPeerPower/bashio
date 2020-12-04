@@ -127,18 +127,6 @@ You have several options to get them answered:
 This is an active open-source project. We are always open to people who want to
 use the code or contribute to it.
 
-We have set up a separate document containing our
-[contribution guidelines](CONTRIBUTING.md).
-
-Thank you for being involved! :heart_eyes:
-
-## Authors & contributors
-
-The original setup of this repository is by [Franck Nijhof][frenck].
-
-For a full list of all authors and contributors,
-check [the contributor's page][contributors].
-
 ## License
 
 MIT License
